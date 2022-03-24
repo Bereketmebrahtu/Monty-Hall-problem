@@ -1,5 +1,19 @@
 # Monty-Hall-problem
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The Monty Hall problem is a probability puzzle that catches many people out when first encountered. Vos Savant presented a solution that was, initially, rejected in the popular media of the day.
 
  Write a program that demonstrates that Vos Savant is correct. You will use the output of your program to convince your interviewer that, after the host opens a door, switching doors is always the correct choice.
