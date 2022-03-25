@@ -1,13 +1,5 @@
 # Monty-Hall-problem
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/47576080/159919880-66929975-fab8-44bc-9a40-4cae95bab7b0.png">
-
-
-
-
-
-
-
 
 
 
@@ -26,3 +18,8 @@ The Monty Hall problem is a probability puzzle that catches many people out when
 Put the code in a public GitHub repository
 - Use your software to show that switching doors is statistically the best option.
 - The elegance of the output is not important so long as the program can be used to prove the point.
+
+## My understanding of the problem
+
+- There is 1/3 chance your first choice being the one with the car in. That odd isn't improved if you decide to stick.
+- However, there is 2/3 chance the car is in either behind Door 2 or 3 and once Monty reveals door number 2 to have a goat behind it, now the 2/3 odd is concentrated onto door number 3 which is why switching is the better strategy and is demonstrated by our logic.
