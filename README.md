@@ -1,6 +1,6 @@
 # Monty-Hall-problem
 
-
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/47576080/159919880-66929975-fab8-44bc-9a40-4cae95bab7b0.png">
 
 
 
