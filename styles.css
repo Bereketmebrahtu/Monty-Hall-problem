@@ -1,0 +1,30 @@
+.monty-hall {
+display: flex;
+margin-left:auto;
+margin-right:auto;
+width: 50vw;
+
+    
+
+}
+
+.doors {
+border: 1px solid;
+width: fit-content;
+padding: 5rem;
+background-color: red;
+}
+
+/* .doors2 {
+border: 1px solid;
+width: fit-content;
+padding: 5rem;
+background-color: green;
+}
+
+.doors3 {
+border: 1px solid;
+width: fit-content;
+padding: 5rem;
+background-color:blue;
+} */
