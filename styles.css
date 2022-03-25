@@ -4,18 +4,16 @@ margin-left:auto;
 margin-right:auto;
 width: 50vw;
 
-    
-
 }
 
-.doors {
+.doors1 {
 border: 1px solid;
 width: fit-content;
 padding: 5rem;
 background-color: red;
 }
 
-/* .doors2 {
+.doors2 {
 border: 1px solid;
 width: fit-content;
 padding: 5rem;
@@ -27,4 +25,16 @@ border: 1px solid;
 width: fit-content;
 padding: 5rem;
 background-color:blue;
-} */
+} 
+
+.btn-1 {
+    padding:0.5rem;
+}
+
+.btn-2 {
+    padding:0.5rem;
+}
+
+.btn-3 {
+    padding:0.5rem;
+}
